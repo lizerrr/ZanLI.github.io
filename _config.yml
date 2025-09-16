@@ -33,7 +33,7 @@ author:
   email            : "zligq@connect.ust.hk" 
 
   # Academic websites
-  academia         : # URL
+  # academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=h3JydfIAAAAJ&hl=en&oi=sra"
   inspire-hep      : # URL
@@ -77,7 +77,7 @@ author:
   wikipedia        : # Username
   xing             : # Username
   youtube          : # Username
-  zhihu            : # Username
+  zhihu            : "https://www.zhihu.com/people/Zan_LI"
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
