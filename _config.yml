@@ -23,12 +23,12 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "IEEE.jpg"
+  avatar           : "profile.png"
   name             : "Zan LI (李赞)"
   pronouns         : # example: "she/her"  
   bio              : "Huawei Technologies"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  # location         : "Earth"
+  # employer         : "Red Brick University"
   uri              : # URL
   email            : "none@example.org" 
 
