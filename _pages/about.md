@@ -15,7 +15,7 @@ I would join Huawei’s 2012 Wireless Technology Laboratory (华为2012无线技
 
 Educations
 ------
-- 2025.08 - 2021.09, Bachelor, <img src="/images/HUST_logo.png" width="20"> [HongKong University of Science and Technology (香港科技大学)](https://ece.hkust.edu.hk/)，Wuhan China
+- 2025.08 - 2021.09, Bachelor, <img src="/images/HUST_logo.png" width="16"> [HongKong University of Science and Technology (香港科技大学)](https://ece.hkust.edu.hk/)，Wuhan China
 - 2017.09 - 2021.07, Ph.D, <img src="/images/HKUST_logo.png" width="40"> [Huazhong University of Science and Technology (华中科技大学)](https://ei.hust.edu.cn/), Hongkong SAR, China
 - 
  
