@@ -16,7 +16,7 @@ I would join Huawei’s 2012 Wireless Technology Laboratory (华为2012无线技
 Educations
 ------
 - 2025.08 - 2021.09, Bachelor, <img src="/images/HUST_logo.png" width="20"> [HongKong University of Science and Technology (香港科技大学)](https://ece.hkust.edu.hk/)，Wuhan China
-- 2017.09 - 2021.07, Ph.D, [Huazhong University of Science and Technology (华中科技大学)](https://ei.hust.edu.cn/), Hongkong SAR, China
+- 2017.09 - 2021.07, Ph.D, <img src="/images/HKUST_logo.png" width="20"> [Huazhong University of Science and Technology (华中科技大学)](https://ei.hust.edu.cn/), Hongkong SAR, China
 - 
  
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured Markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various Markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
