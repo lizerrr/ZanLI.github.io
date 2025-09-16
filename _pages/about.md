@@ -11,7 +11,9 @@ This is the front page of a website that is powered by the [Academic Pages templ
 
  You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 
-I just finished my Ph.D. in Electronic and Computer Engineering department in HongKong University of Science and Technology (HKUST，香港科技大学) in 2025 supervised by Prof. [Ross Murch](https://eermurch.home.ece.ust.hk/). 
+I just graduated from Electronic and Computer Engineering department in HongKong University of Science and Technology (HKUST，香港科技大学) with a Ph.D degree in 2025 supervised by Prof. [Ross Murch](https://eermurch.home.ece.ust.hk/). Prior to my Ph.D. program, I received my B.E. degree from Huazhong University of Science and Technology (HUST,华中科技大学) in 2021.
+
+My work in Ph.D period is primarily focused on the **integrated sensing and communication system (ISAC,通感一体化) based on radio tomographic imaging (RTI,无线层析成像)**.
 
 A data-driven personal website
 ======
