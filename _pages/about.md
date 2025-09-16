@@ -15,6 +15,8 @@ I just graduated from Electronic and Computer Engineering department in HongKong
 
 My work in Ph.D period is primarily focused on the **integrated sensing and communication system (ISAC,通感一体化) based on radio tomographic imaging (RTI,无线层析成像)**, which mainly includes improving the sensing performance of RTI with the existing resource in ISAC system. Recently, I’m enthusiastic about the combination of wireless communication system and reconfigurable antennas.
 
+I would join Huawei’s 2012 Wireless Technology Laboratory (华为2012无线技术实验室) soon.
+
 A data-driven personal website
 ======
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured Markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various Markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
